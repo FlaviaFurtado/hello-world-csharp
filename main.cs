@@ -1,9 +1,7 @@
 
-#include <stdio.h>
-
-int main()
-{
-    printf("Hello World");
-
-    return 0;
+using System;
+class HelloWorld {
+  static void Main() {
+    Console.WriteLine("Olá Mundo!);
+  }
 }
